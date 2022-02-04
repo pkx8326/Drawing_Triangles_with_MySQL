@@ -7,3 +7,5 @@ Draw the Triangle 1: https://bit.ly/3ATG0WY
 Draw the Triangle 2: https://bit.ly/3oqjEam
 
 The propblem #2 is simply the reverse version of the #1, however it imposes an additional logical step in the code.
+
+Each set of the code also requires the user to create a user-defined variable using '@' assignment syntax. More information about user- and system-defined variables in MySQL with '@' assignment syntax can be found here: https://bit.ly/34A9oVV
